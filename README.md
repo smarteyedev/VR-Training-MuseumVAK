@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Virtual Reality (VR) application designed to [state the purpose of the application, e.g., "reduce player eye strain" or "provide an immersive experience in a specific simulation environment"].
+Budi, seorang siswa yang penasaran, mengunjungi Museum VAK untuk mempelajari cara orang memahami informasi lewat tiga gaya belajar: Visual, Auditory, dan Kinestetik. Dengan bantuan teknologi Virtual Reality (VR), museum ini menghadirkan pengalaman belajar yang seru dan interaktif.
 
 ---
 
