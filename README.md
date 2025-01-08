@@ -21,14 +21,16 @@ Unity version 2022.3.6f1 Oculus
 
 ## Developer
 
-- **Nama Developer:** Andre Shevcennko  
+- **Nama Developer:** Andre Shevcennko
+    
   **Role:** Programmer 
   **Contact:** andreshevcennko@gmail.com
 
-- **Nama Developer:** Andre Shevcennko  
+- **Nama Developer:** Muhammad Zagar Abiyasa Suhanda
+   
   **Role:** 3D Artist 
   **Contact:** adeagan12345@gmail.com
 
-- **Nama Developer:** Andre Shevcennko  
-  **Role:** UI/UX  
-  **Contact:** rivarizky48@gmail.com
+- **Nama Developer:** Muhammad Riva Rizky Pratama
+  
+  **Role:** UI/UX  **Contact:** rivarizky48@gmail.com
