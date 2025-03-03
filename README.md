@@ -2,7 +2,8 @@
 
 ## Description
 
-Seorang siswa bernama budi yang sedang berkunjung ke museum bernama MuseumVAK. Bertujuan mencari tema pembelajaran yang dia sukai.MuseumVAK ini terdiri dari 3 tema. Auditory,Visual,Kinetik. Apa yang budi lebih sukai dari ketiga tema tersebut??
+Seorang siswa bernama budi yang sedang berkunjung ke museum bernama MuseumVAK. Bertujuan mencari tema pembelajaran yang dia sukai.MuseumVAK ini terdiri dari 3 tema. Auditory,Visual,Kinetik. Apa yang budi lebih sukai dari ketiga tema tersebut.
+
 ---
 
 ## Key Features
